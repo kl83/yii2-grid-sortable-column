@@ -1,0 +1,7 @@
+.grid-view th.sortable-column {
+  width: 30px;
+}
+.grid-view tbody > tr:nth-of-type(even) {
+  background: white;
+}
+/*# sourceMappingURL=base.css.map */
