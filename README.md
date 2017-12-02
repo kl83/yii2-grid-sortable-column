@@ -3,7 +3,7 @@
 [![Total Downloads](https://poser.pugx.org/kl83/yii2-grid-sortable-column/downloads)](https://packagist.org/packages/kl83/yii2-grid-sortable-column)
 [![License](https://poser.pugx.org/kl83/yii2-grid-sortable-column/license)](https://packagist.org/packages/kl83/yii2-grid-sortable-column)
 
-The GridView column class for sorting rows. Looks like that:
+The GridView column class for sorting rows. Looks like this:
 
 ![Preview](https://raw.githubusercontent.com/kl83/yii2-grid-sortable-column/master/preview.png)
 
