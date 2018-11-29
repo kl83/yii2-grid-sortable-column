@@ -1,0 +1,7 @@
+.grid-view th.sortable-column {
+  width: 30px;
+}
+.grid-view tr.ui-sortable-helper {
+  background: white;
+}
+/*# sourceMappingURL=sortable-column.css.map */

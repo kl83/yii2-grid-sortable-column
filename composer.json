@@ -1,7 +1,11 @@
 {
     "name": "kl83/yii2-grid-sortable-column",
     "description": "Sortable column for Yii2 GridView",
-    "keywords": ["yii2", "grid", "widget"],
+    "keywords": [
+        "yii2",
+        "grid",
+        "widget"
+    ],
     "require": {
         "php": ">=5.4.0",
         "yiisoft/yii2": "^2.0.0",
@@ -17,7 +21,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "kl83\\grid\\": "grid/"
+            "kl83\\grid\\": "src/"
         }
     }
 }

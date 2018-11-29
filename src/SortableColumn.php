@@ -1,7 +1,10 @@
 <?php
+
 namespace kl83\grid;
 
-class SortableColumn extends \yii\grid\Column
+use yii\grid\Column;
+
+class SortableColumn extends Column
 {
     public function init()
     {
